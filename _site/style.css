@@ -1,0 +1,29 @@
+body {
+  min-height: 100vh;
+  background-image: url("https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2019/11/18225440/National_Treasure_Anniversary.jpg");
+  color: white;
+}
+h1,
+h2 {
+  text-align: center;
+  background: #f6cb58;
+}
+h1 {
+  font-size: 5rem;
+}
+
+input,
+button,
+h2 {
+  display: block;
+  margin: 0 auto;
+}
+h2 {
+  display: inline-block;
+  /* text-align: center; */
+  font-size: 3rem;
+}
+input {
+  width: 50%;
+  height: 5rem;
+}
